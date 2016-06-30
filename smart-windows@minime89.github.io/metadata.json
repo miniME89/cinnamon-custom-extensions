@@ -1,0 +1,15 @@
+{
+    "uuid": "smart-windows@minime89.github.io",
+    "cinnamon-version": [
+        "1.8",
+        "1.9",
+        "2.0",
+        "2.2",
+        "2.4",
+        "2.8"
+    ],
+    "url": "https://github.com/miniME89/cinnamon-custom-extensions",
+    "description": "Place new window always on the active monitor",
+    "name": "Smart Windows",
+    "last-edited": "1467307560"
+}
